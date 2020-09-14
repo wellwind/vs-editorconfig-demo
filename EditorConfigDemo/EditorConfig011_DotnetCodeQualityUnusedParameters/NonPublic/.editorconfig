@@ -1,0 +1,2 @@
+[*]
+dotnet_code_quality_unused_parameters = non_public:error
