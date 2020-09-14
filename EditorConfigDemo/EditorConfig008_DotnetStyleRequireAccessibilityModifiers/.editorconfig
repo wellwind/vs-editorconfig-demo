@@ -1,0 +1,2 @@
+[*]
+dotnet_style_require_accessibility_modifiers = for_non_interface_members:error
