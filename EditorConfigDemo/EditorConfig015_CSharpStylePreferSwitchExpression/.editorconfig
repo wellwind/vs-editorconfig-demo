@@ -1,0 +1,2 @@
+[*]
+csharp_style_prefer_switch_expression = true:error
