@@ -1,0 +1,2 @@
+[*]
+csharp_style_conditional_delegate_call = true:error
