@@ -25,7 +25,7 @@ namespace EditorConfigDemo.EditorConfig021_CSharpExpressionLevelPreferences
             // csharp_style_inlined_variable_declaration = true
             // 建議改成 if (int.TryParse(value, out int i) { ...}
             int i;
-            if (int.TryParse(value, out i) { }
+            if (int.TryParse(value, out i)) { }
 
             // csharp_style_pattern_local_over_anonymous_function = true
             // 建議改成
