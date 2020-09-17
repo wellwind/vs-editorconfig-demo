@@ -10,7 +10,7 @@
             // 所有括號內都不加空白
             for ( int i = 0; i < 10; i++ ) { }
             var z = ( x * y ) - ( ( y - x ) * 3 );           
-            int y = ( int )x;
+            int yy = ( int )x;
 
             // 可獨立設定那些情況不要括號內要加空白
             // csharp_space_between_parentheses = control_flow_statements
