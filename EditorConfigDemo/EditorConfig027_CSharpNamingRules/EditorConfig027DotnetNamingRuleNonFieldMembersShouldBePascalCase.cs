@@ -3,8 +3,7 @@
     class EditorConfig027DotnetNamingRuleNonFieldMembersShouldBePascalCase
     {
         // field ok
-        private readonly int age = 18;
-        public readonly string name = "Mike";
+        public string name = "Mike";
 
         // dotnet_naming_rule.non_field_members_should_be_pascal_case
         // 非 field 應該以 pascal case 的規則命名
